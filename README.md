@@ -1,2 +1,2 @@
 # firststep
-初めてのGit
+初めてのGitを実施
